@@ -15,6 +15,8 @@ Notice: If the save is not available, then a new save need to be released. So us
 Save screenshot as the image file in the directory.
 
 
+  
+  
 
 无限(几乎)金钱存档，用于steam游戏''幸运房东''。用这个存档尝试新套路！
 
