@@ -12,6 +12,8 @@ C:\Users\\<Your username>\AppData\Roaming\Godot\app_userdata\Luck be a Landlord
 
 Notice: If the save is not available, then a new save need to be released. So use the save as early as possible.
 
+Save screenshot as the image file in the directory.
+
 
 
 无限(几乎)金钱存档，用于steam游戏''幸运房东''。用这个存档尝试新套路！
@@ -27,6 +29,4 @@ C:\Users\\<替换为自己用户名>\AppData\Roaming\Godot\app_userdata\Luck be 
 
 
 
-Save screenshot存档截图：25消除, 1高费方便试验各种套路。
-
-![image-20210524224728084](C:\Users\30501\AppData\Roaming\Typora\typora-user-images\image-20210524224728084.png)
+存档截图在文件目录内：25消除, 1高费方便试验各种套路。
